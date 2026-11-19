@@ -1,0 +1,6 @@
+[
+  {"name": "T-80BVM", "x": 420.0, "y": 300.0, "heading": 45.0},
+  {"name": "Leopard 2A6", "x": 680.0, "y": 100.0, "heading": 90.0},
+  {"name": "M1A2 SEP", "x": -500.0, "y": -600.0, "heading": 225.0},
+  {"name": "Type 10", "x": 900.0, "y": 700.0, "heading": 180.0}
+]
